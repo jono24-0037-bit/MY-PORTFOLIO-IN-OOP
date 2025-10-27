@@ -22,7 +22,7 @@ Source Code:
             print("Service Rating: %.2f" % service)
             print("Overall Average Rating: %.2f" % calculate_average_rating(quality,
             price, service))
-            analyze_product()
+            analyze_product()                       
 
 Sample Output 1:
 
@@ -31,4 +31,5 @@ Sample Output 1:
 Sample Output 2:
 
 <img width="363" height="250" alt="image" src="https://github.com/user-attachments/assets/7588fd7b-9116-431f-91f2-2236d1409e0f" />
+
 
