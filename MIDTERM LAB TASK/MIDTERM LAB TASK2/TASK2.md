@@ -3,11 +3,12 @@ MIDTERM LAB TASK 2
 <img width="744" height="780" alt="image" src="https://github.com/user-attachments/assets/7ecd8b12-e532-4ebd-a904-32db9029740a" />
 
 Source Code:
+                        
             product_name = str(input("Enter Product Name:"))
             category = str(input("Enter Category:"))
             quality = float(input("Enter Quality Rating:"))
             price = float(input("Enter Price Rating:"))
-            service = float(input("Enter Service Rating:"))
+            service = float(input("Enter Service Rating:"))            
             
             def calculate_average_rating(quality,price,service):
             total = quality + price + service
@@ -31,5 +32,6 @@ Sample Output 1:
 Sample Output 2:
 
 <img width="363" height="250" alt="image" src="https://github.com/user-attachments/assets/7588fd7b-9116-431f-91f2-2236d1409e0f" />
+
 
 
